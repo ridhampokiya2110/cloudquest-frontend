@@ -20,4 +20,4 @@ TECHNOLOGY STACK:
 5. DevOps: GitHub Actions for CI/CD pipeline
 
 LIVE DEMO:
-http://cloudquest-trivia-project.s3-website.ap-south-1.amazonaws.com
+d3s7gaidpnlw9m.cloudfront.net
